@@ -1,0 +1,12 @@
+{
+  "name": "TopoPrint",
+  "productName": "TopoPrint",
+  "version": "0.0.1",
+  "description": "A simple topographic map export application.",
+  "main": "./src/main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/towa48/TopoPrint.git"
+  },
+  "license": "MIT"
+}
